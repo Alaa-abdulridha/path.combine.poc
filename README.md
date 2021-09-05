@@ -1,4 +1,4 @@
-# path.combine.poc
+# path.combine path traversal vulnerability ASP.NET CORE
 Study case for path traversal vulnerability on path.combine function in the asp.net core.
 
 - Line 14 is the data input parameter to pass data to the vulnerable function.
